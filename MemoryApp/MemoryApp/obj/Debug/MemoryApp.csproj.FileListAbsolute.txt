@@ -1,0 +1,9 @@
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\bin\Debug\MemoryApp.exe.config
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\bin\Debug\MemoryApp.exe
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\bin\Debug\MemoryApp.pdb
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\obj\Debug\MemoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\obj\Debug\MemoryApp.Form1.resources
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\obj\Debug\MemoryApp.Properties.Resources.resources
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\obj\Debug\MemoryApp.csproj.GenerateResource.Cache
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\obj\Debug\MemoryApp.exe
+C:\Users\Jacek\Documents\GitHub\MemoryGame\MemoryApp\MemoryApp\obj\Debug\MemoryApp.pdb
